@@ -28,4 +28,4 @@ E assim por diante!
 
 4 - Com o código pronto é so colar ele no console que irá funcionar.
 
-Espero que goste desse protótipo de bot e obrigado por testá-lo <3.
+Espero que goste desse protótipo de bot e obrigado por testá-lo <3 !!!
