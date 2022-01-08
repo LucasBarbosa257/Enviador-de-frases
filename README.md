@@ -10,6 +10,7 @@ let messages = [
 Cada mensagem deve estar dentro de aspas e separados por vírgula da anterior.
 
 
+
 3 - Escolha o tempo de intervalo entre cada mensagem, seguindo o exemplo a seguir:
 
 setInterval(
@@ -20,10 +21,11 @@ setInterval(
         }
     }, 5000) <-- este número determina o intervalo!
 
-5000 = 5 segundos entre cada mensagem
-7000 = 7 segundos
-2000 = 2 segundos
+5000 = 5 segundos entre cada mensagem;
+7000 = 7 segundos;
+2000 = 2 segundos;
 E assim por diante!
+
 
 
 4 - Com o código pronto é so colar ele no console que irá funcionar.
